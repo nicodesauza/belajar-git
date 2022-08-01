@@ -1,1 +1,1 @@
-const commit3 = "ini commit3";
+const commit3 = "ini commit3 ganti";
