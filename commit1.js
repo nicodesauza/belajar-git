@@ -1,1 +1,1 @@
-const initGit = "ini init git perubahan";
+const initGit = "ini init git";
